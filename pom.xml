@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.160.223.148:8081/repository/kuda-release/</url>
+	      <url>http://54.226.144.199:8081/repository/chiapps-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.160.223.148:8081/repository/kuda-snapshot/</url>
+	      <url>http://54.226.144.199:8081/repository/chiapps-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
