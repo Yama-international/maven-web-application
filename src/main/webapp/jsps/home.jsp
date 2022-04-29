@@ -13,7 +13,7 @@
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
 	Tech-iXora is a software development company. 
 	Jenkins CLasses will run from October 2, 2022.
-	The shout of our King Jesus is in our midst. Jesus IS OUR SUCCESS ACCESS KEY</h2>
+	The shout of the King Jesus is in our midst. Jesus IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
