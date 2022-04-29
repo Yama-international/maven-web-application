@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.226.144.199:8081/repository/chiapps-release/</url>
+	      <url>http://54.145.7.84:8081/repository/hp-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.226.144.199:8081/repository/chiapps-snapshot/</url>
+	      <url>http://54.145.7.84:8081/repository/hp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
