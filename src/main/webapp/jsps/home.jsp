@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Nigeria.</h1>
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
-	Tech-iXora is a software development company with her HQ in the United States. 
+	Tech-iXora is a software development company. 
 	Jenkins CLasses will run from October 2, 2022.
 	The shout of the King Jesus is in our midst. Jesus IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
