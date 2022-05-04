@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.172.102.152:8081/repository/pinkapps-release/</url>
+	      <url>http://54.227.94.120:8081/repository/pink-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.172.102.152:8081/repository/pinkapps-snapshot/</url>
+	      <url>http://54.227.94.120:8081/repository/pink-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
