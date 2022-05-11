@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.211.3.224:8081/repository/innoapps-release/</url>
+	      <url>http://34.229.80.159:8081/repository/hpweb-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.211.3.224:8081/repository/innoapps-snapshot/</url>
+	      <url>http://34.229.80.159:8081/repository/hpweb-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
