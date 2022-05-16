@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.229.80.159:8081/repository/hpweb-release/</url>
+	      <url>http://35.171.22.105:8081/repository/cal-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.229.80.159:8081/repository/hpweb-snapshot/</url>
+	      <url>http://35.171.22.105:8081/repository/cal-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
