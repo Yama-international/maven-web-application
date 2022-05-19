@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.171.22.105:8081/repository/cal-release/</url>
+	      <url>http://54.92.246.237:700/repository/apps-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.171.22.105:8081/repository/cal-snapshot/</url>
+	      <url>http://54.92.246.237:700/repository/apps-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
